@@ -1,3 +1,7 @@
 # compressor-image
+```
 $ npm install 
-$ node nenanh.js <link-folder>
+```
+```
+$ node nenanh.js link-folder
+```
