@@ -3,5 +3,5 @@
 $ npm install 
 ```
 ```
-$ node nenanh.js link-folder
+$ node nenanh.js link-folder thead-number
 ```
