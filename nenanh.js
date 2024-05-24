@@ -133,6 +133,8 @@ async function main() {
       )
     )
   );
+  console.log("Đã hoàn thành nén tất cả ảnh!");
+  process.exit(0); 
 }
 
 main();
